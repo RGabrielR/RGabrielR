@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RGabrielR
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning UX design
+- 👀 I’m interested in Full-stack development
 - 💞️ I’m looking to collaborate on web projects 
 - 📫 How to reach me: mail: ivangabrielalabi@gmail.com
 
